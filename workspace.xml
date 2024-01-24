@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5cad305-9f69-4564-836a-e01223e2fca5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2YvqV6ExfmgvQfrUHWWHSwGzfvM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/kubil/Desktop/Spring_API",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "0050ce58ceeb4b10fd9d77b502d9cf81",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.AttritionApplication">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="AttritionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Attrition" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.attrition.AttritionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5cad305-9f69-4564-836a-e01223e2fca5" name="Changes" comment="" />
+      <created>1701416422908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701416422908</updated>
+      <workItem from="1701416423806" duration="7244000" />
+      <workItem from="1701690748073" duration="6737000" />
+      <workItem from="1701756699022" duration="544000" />
+      <workItem from="1701757345740" duration="12000" />
+      <workItem from="1701760879251" duration="3187000" />
+      <workItem from="1701764203289" duration="197000" />
+      <workItem from="1701777971302" duration="1316000" />
+      <workItem from="1701795316845" duration="654000" />
+      <workItem from="1701798828813" duration="798000" />
+      <workItem from="1701800487061" duration="13000" />
+      <workItem from="1701800771688" duration="218000" />
+      <workItem from="1701801051257" duration="135000" />
+      <workItem from="1701863742287" duration="581000" />
+      <workItem from="1701865317748" duration="5149000" />
+      <workItem from="1701885368461" duration="1267000" />
+      <workItem from="1701949082660" duration="3566000" />
+      <workItem from="1702014366631" duration="153000" />
+      <workItem from="1702032761938" duration="1281000" />
+      <workItem from="1702048923982" duration="3129000" />
+      <workItem from="1702121195823" duration="2628000" />
+      <workItem from="1702131738802" duration="9989000" />
+      <workItem from="1702150584220" duration="1566000" />
+      <workItem from="1702207154383" duration="2364000" />
+      <workItem from="1702222635116" duration="764000" />
+      <workItem from="1702293336490" duration="9000" />
+      <workItem from="1702308906462" duration="474000" />
+      <workItem from="1702556385346" duration="2204000" />
+      <workItem from="1702635762949" duration="1243000" />
+      <workItem from="1702720345006" duration="11000" />
+      <workItem from="1703161400504" duration="1544000" />
+      <workItem from="1703175826909" duration="5253000" />
+      <workItem from="1703260831942" duration="258000" />
+      <workItem from="1703271458033" duration="422000" />
+      <workItem from="1703693365238" duration="440000" />
+      <workItem from="1703758716697" duration="949000" />
+      <workItem from="1703872707566" duration="35000" />
+      <workItem from="1704453788651" duration="157000" />
+      <workItem from="1704636803382" duration="71000" />
+      <workItem from="1704653862709" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,82 @@
+GET http://localhost:8080/api/login
+Content-Type: application/json
+Content-Length: 95
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "derdinekeder_alayinagider_asaletinyeter@sagolera.com",
+  "password": "password"
+}
+
+<> 2023-12-01T135531.200.json
+
+###
+
+POST http://localhost:8080/api/register
+Content-Type: application/json
+Content-Length: 145
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "derdinekeder_alayinayeter_asaletinyeter@sagolera.com",
+  "password": "password",
+  "name": "Ahmet Yiğit",
+  "surname": "Özkoca"
+}
+
+###
+
+GET http://localhost:8080/api/login
+Content-Type: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "hr@hotmail.com",
+  "password": "password"
+}
+
+<> 2023-12-01T135333.200.json
+
+###
+
+POST http://localhost:8080/api/register
+Content-Type: application/json
+Content-Length: 103
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "hr@hotmail.com",
+  "password": "password",
+  "name": "Kubilay",
+  "surname": "Kürtür"
+}
+
+###
+
+GET http://localhost:8080/api/login
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-01T134903.400.json
+
+###
+
+GET http://localhost:8080/api
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-01T134855.404.json
+
+###
+
